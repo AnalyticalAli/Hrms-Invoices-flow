@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 28" fill="none" role="img" aria-label="APT CORE">
+  <!-- Mark: stylized A slash matching the side-nav mock -->
+  <path d="M10.5 4.2 18.8 23.5H15.1l-1.5-3.6H6.2l-1.5 3.6H1.2L9.4 4.2h1.1zM7.5 16.4h4.8L9.9 10.6 7.5 16.4z" fill="#0B1B33"/>
+  <path d="M12.2 3.2 20.8 24.2" stroke="url(#aptGrad)" stroke-width="2.2" stroke-linecap="round"/>
+  <text x="26" y="19.5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#0B1B33">APT</text>
+  <text x="62" y="19.5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="0.6" fill="url(#aptGrad)">CORE</text>
+  <defs>
+    <linearGradient id="aptGrad" x1="12" y1="3" x2="150" y2="24" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5BBCFF"/>
+      <stop offset="0.55" stop-color="#1E96FC"/>
+      <stop offset="1" stop-color="#0A66C2"/>
+    </linearGradient>
+  </defs>
+</svg>
