@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      reicon:
+        specifier: ^1.2.5
+        version: 1.2.5
+
+packages:
+
+  reicon@1.2.5:
+    resolution: {integrity: sha512-2I7zqhdNftyIO4FFv8Txy168gFIvy5qOO56zHlLNl1cyBmt6fy41LM8k+566epgcJN2pJd1Wk9TA+CXUZszUNA==}
+
+snapshots:
+
+  reicon@1.2.5: {}
